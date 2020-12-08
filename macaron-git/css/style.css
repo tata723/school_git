@@ -44,7 +44,7 @@ h1{
   font-family: 'Great Vibes', cursive;
   font-size: 4rem;
   letter-spacing: 10px;  /* letter-spacing:文字間 */
-  color: #955E64;
+  color: #222;
   font-weight: normal;  /* font-weight:文字の太さ */
   text-shadow: 0px 0px 4px #fff;  /* text-shadow:文字の影 */
   filter: drop-shadow(4px 2px 4px #fff);  /* filter:ぼかしや色変化など */
